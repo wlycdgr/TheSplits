@@ -1,6 +1,6 @@
 # FIGNERMUKCRE
 
-Players control two or more avatars simultaneously. Each avatar occupies one column slot in a playfield that is an array of columns. Avatars can move between columns. Which inputs control which avatar at any given point in time is determined by the avatars' relative positions at the time of input. For example, a keyboard controls implementation might map Q to "move whichever avatar is currently leftmost to the nearest open column slot to its left."
+Players control two or more avatars simultaneously. Each avatar occupies one column slot in a playfield that is an array of columns. Avatars can move between columns. Which inputs control which avatars at any given point in time is determined by the avatars' relative positions at that time. For example, a keyboard controls implementation might map Q to "move whichever avatar is currently leftmost to the nearest open column slot to its left."
 
 ------------
 
