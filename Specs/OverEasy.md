@@ -1,12 +1,8 @@
 # OVER EASY
 
-## SPEC
+Players control two avatars simultaneously. One avatar is enclosed inside the other. The avatars are inside a bounded playfield.
 
-Players control two avatars simultaneously. 
-One avatar is enclosed inside the other.
-The avatars are inside a bounded playfield.
-If the inner avatar touches the outer avatar, the game is over.
-If the outer avatar touches the playfield boundary, the game is over.
+If the inner avatar touches the outer avatar, the game is over. If the outer avatar touches the playfield boundary, the game is over.
 
 ------------
 
